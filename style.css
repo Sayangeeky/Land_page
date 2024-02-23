@@ -1,0 +1,146 @@
+body{
+    background-color:rgb(5, 5, 96);
+}
+.flex{
+    display: flex;
+    background-color: rgb(5, 5, 96);
+}
+.logo{
+    width: 75px;
+    height: 75px;
+}
+.container-0{
+    
+    margin-left: 300px;
+    border-radius: 0 0 100% 100%;
+    background-color: #444896;
+    height: 70px;
+   
+
+}
+.container-0 a{
+   
+    padding-left: 40px;
+    position: relative;
+    top: 20px;
+    padding-right: 40px;
+    color: wheat;
+    text-decoration: none;
+}
+.name{
+    margin: 25px 25px 0 10px;
+    color: wheat;
+    text-decoration: none;
+}
+
+.user{
+    margin-left: 390px;
+    border: 2px solid wheat;
+    border-radius: 50%;
+}
+.user img{
+    height: 65px;
+    width: 65px;
+}
+.container-1{
+    background-color: rgb(237, 188, 40);
+    height: 300px;
+}
+.container-3{
+    height: 350px;
+}
+
+.container-3 img{
+    width: 380px;
+    height: 450px;
+    margin-top: 20px;
+   
+    
+}
+.image-text{
+    position: relative;
+    right: 330px;
+    top: 90px;
+    font-size: 35px;
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+  
+    box-shadow: 10px 10px 50px rgb(0, 0, 0);
+    
+}
+.container-4{
+    margin-top: 200px;
+    height: 400px;
+    background-color:  rgb(237, 188, 40);
+}
+footer{
+    height: 10px;
+}
+
+.container-1 h1{
+    position: relative;
+    bottom: 120px;
+    left: 70px;
+    font-size: 55px;
+    color: red;
+    font-family: 'Courier New', Courier, cursive;
+    transform: rotate(-18deg);
+    
+  
+}
+
+.container-1 h3{
+    position: relative;
+    top: -130px;
+    color: red;
+    font-size: 30px;
+    left: 80px;
+    transform: rotate(-18deg);
+    font-family: 'Courier New', Courier, cursive;
+    
+  
+}
+
+.container-1 .discount img{
+    padding-right: 15px;
+   position: relative;
+   left: 450px;
+   height: 200px;
+   bottom: 130px;
+   
+
+}
+.discount-beside img{
+    position: relative;
+    top: -330px;
+    width: 200px;
+    left: 1100px;
+    height: 200px;
+}
+.container-4{
+    color: red;
+    padding-top: 100px;
+   
+}
+.container-4 h1{
+    position: relative;
+    top: 20px;
+    left: 650px;
+    font-family: 'Courier New', Courier, cursive;
+    font-size: 55px;
+}
+.container-4 img{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+}
+footer{
+    color: white;
+    padding-left: 580px;
+    font-size: 18px;
+}
+footer p{
+    padding-top: 20px;
+}
